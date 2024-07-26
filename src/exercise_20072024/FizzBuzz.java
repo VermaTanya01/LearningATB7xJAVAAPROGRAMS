@@ -1,5 +1,5 @@
-package exercise_19072024;
-import java.util.Scanner;
+package exercise_20072024;
+
 public class FizzBuzz {
     public static void main(String[] args) {
     for(int i=1; i<=100; i++)
