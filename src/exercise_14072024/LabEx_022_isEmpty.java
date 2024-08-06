@@ -1,6 +1,6 @@
 package exercise_14072024;
 import java.util.Scanner;
-public class LabEx_isEmpty {
+public class LabEx_022_isEmpty {
     public static void main(String[] args) {
         System.out.println("Please Enter a string.");
         Scanner sc = new Scanner(System.in);

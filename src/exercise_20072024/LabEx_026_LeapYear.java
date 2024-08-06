@@ -1,6 +1,6 @@
 package exercise_20072024;
 import java.util.Scanner;
-public class LeapYear {
+public class LabEx_026_LeapYear {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         System.out.println("Please Enter a year of your choice");

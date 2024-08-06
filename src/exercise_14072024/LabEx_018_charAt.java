@@ -2,7 +2,7 @@ package exercise_14072024;
 
 import java.util.Scanner;
 
-public class LabEx_charAt {
+public class LabEx_018_charAt {
     //Java String Methods
     public static void main(String[] args) {
         System.out.println("Please enter a String of your Choice");

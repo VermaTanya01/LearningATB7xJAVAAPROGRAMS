@@ -1,6 +1,6 @@
 package exercise_20072024;
 
-public class FizzBuzz {
+public class LabEx_025_FizzBuzz {
     public static void main(String[] args) {
     for(int i=1; i<=100; i++)
     {

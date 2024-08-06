@@ -1,8 +1,7 @@
 package exercise_14072024;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 // cntains(), tiLowerClass() to Upper class() ends with(),
-public class LabEx_Contains {
+public class LabEx_020_Contains {
     public static void main(String[] args) {
 //CONTAINS()
         System.out.println("Please enter a String of your choice to check the frequency of any letters........");

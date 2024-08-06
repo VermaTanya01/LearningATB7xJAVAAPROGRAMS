@@ -1,6 +1,6 @@
 package exercise_14072024;
 import java.util.Scanner;
-public class LabEx_compareTo {
+public class LabEx_019_compareTo {
     public static void main(String[] args) {
 
         System.out.println("Please Enter any string of your choice");

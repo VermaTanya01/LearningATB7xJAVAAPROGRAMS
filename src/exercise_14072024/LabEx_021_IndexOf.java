@@ -2,7 +2,7 @@ package exercise_14072024;
 
 import java.util.Scanner;
 
-public class LabEx_IndexOf {
+public class LabEx_021_IndexOf {
     public static void main(String[] args) {
         //index of(), lastindexof(), length(), stratswith(), trim(), Vlaueof()
 

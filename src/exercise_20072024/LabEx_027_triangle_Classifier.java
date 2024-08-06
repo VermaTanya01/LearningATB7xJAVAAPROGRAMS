@@ -2,7 +2,7 @@ package exercise_20072024;
 
 import java.util.Scanner;
 
-public class triangle_Classifier {
+public class LabEx_027_triangle_Classifier {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Please Enter the first side of the triangle");
